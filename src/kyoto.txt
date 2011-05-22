@@ -1,0 +1,62 @@
+Kyoto
+=====
+http://www.kyoto.no/take-away/
+
+HOVEDMENY
+-------------------------------------------------------------------------------
+  1 KYOTO LITEN                                                          85.00
+  2 KYOTO MEDIUM                                                        106.00
+  3 KYOTO STOR                                                          136.00
+  4 SUSHI HOVEDRETT                                                     185.00
+  5 SASHIMI HOVEDRETT                                                   209.00
+
+GUNKAN MAKI
+-------------------------------------------------------------------------------
+  1 Ørretrogn                                                            57.00
+  2 Lodderogn                                                            48.00
+  3 Flyvefiskrogn                                                        57.00
+  4 Kamskjell og scampi i chilimajones                                   61.00
+  5 Kamskjell, ørretrogn og avokado                                      61.00
+  6 Brus/farris/                                                         24.00
+
+CHOICEMENY
+-------------------------------------------------------------------------------
+  1 Laks/                                                                39.00
+  2 Smørfisk/                                                            44.00
+  3 Kokt scampi/                                                         45.00
+  4 Kveite/                                                              46.00
+  5 Tunfisk/                                                             53.00
+  6 Kingfish                                                             53.00
+  7 Kamskjell/                                                           53.00
+  8 Ål/                                                                  53.00
+
+MAKIRULLER
+-------------------------------------------------------------------------------
+  1 Tunfisk og agurk                                                     85.00
+  2 Spicy tunfisk                                                        62.00
+  3 Ål og agurk                                                          65.00
+  4 Kokt scampi og avokado                                               62.00
+  5 Laks “Kimchi” maki                                                   59.00
+  6 Laks “chilimajones” maki                                             59.00
+  7 Laks og vårløk                                                       54.00
+  8 Fritert scampi og avokado                                            69.00
+  9 Vegetar                                                              50.00
+ 10 Røket laks og asparges                                               62.00
+ 11 Fritert krabbe og avokado                                            84.00
+ 12 Kyoto spesial                                                        74.00
+ 13 Kamskjell med chilimajones                                           61.00
+ 14 Fritert laks og avokado                                              60.00
+ 15 Spicy laks og pinjekjerner                                           59.00
+
+TILBEHØR
+-------------------------------------------------------------------------------
+  1 Soya                                                                  5.00
+  2 Ingefær                                                               5.00
+  3 Wasabi                                                                5.00
+  4 Spicy salat                                                          10.00
+  5 Chilimajones                                                         10.00
+  6 Japansk ris                                                          10.00
+  7 Wakame tangsalat                                                     12.00
+  8 Edamamebønner                                                        12.00
+  9 Marinert salat                                                       10.00
+

@@ -1,0 +1,78 @@
+Bryggen Asian Cooking
+=====================
+http://bryggenasiancooking.no/take-away
+
+Futo Maki 
+-------------------------------------------------------------------------------
+  1 Gåselever Maki                                                      131.00
+  2 Soft Shell Crab Maki                                                 89.00
+  3 Tempura Futo Maki                                                    79.00
+  4 Tempura vegetar Maki                                                 60.00
+
+Sushi - Forretter
+-------------------------------------------------------------------------------
+  1 Fritert lakseskinn                                                   62.00
+  2 Misosuppe                                                            53.00
+  3 Sashimi forrett - assortert sashimi                                  83.00
+  4 Sushi & Sashimi forrett - 2 biter nigiri og assortert sashimi        83.00
+  5 Sushi forrett - 4 biter assortert sushi                              83.00
+
+Hosomaki
+-------------------------------------------------------------------------------
+  1 Kingfish Hosomaki                                                    80.00
+  2 Sake Hosomaki                                                        58.00
+  3 Tekka Hosomaki                                                       71.00
+
+Moriawase
+-------------------------------------------------------------------------------
+  1 Bryggen Maki Mix                                                    492.00
+  2 Moriawase Mix                                                       239.00
+  3 Sashimi Moriawase                                                   229.00
+  4 Sushi Moriawase                                                     216.00
+
+Nigiri Sushi & Sashimi
+-------------------------------------------------------------------------------
+  1 Andebryst                                                           104.00
+  2 Dorade                                                               75.00
+  3 Gåselever                                                           117.00
+  4 Hval                                                                 54.00
+  5 Kamskjell                                                            62.00
+  6 Kingfish Hamachi                                                     68.00
+  7 Kokt Reke                                                            61.00
+  8 Kongekrabbe                                                          86.00
+  9 Kveite                                                               54.00
+ 10 Laks                                                                 47.00
+ 11 Rå Reke                                                              63.00
+ 12 Sjøkreps                                                             99.00
+ 13 Tunfisk                                                              68.00
+ 14 Ål                                                                   63.00
+
+Ura Maki
+-------------------------------------------------------------------------------
+  1 California Maki                                                      89.00
+  2 Fritert Maki (Tombo)                                                 89.00
+  3 Hot Philadelphia Maki                                                86.00
+  4 Kamskjell Maki                                                       72.00
+  5 Lakseskinn Maki                                                      68.00
+  6 Philadelphia Maki                                                    89.00
+  7 Sake og Tobbiko Maki                                                 80.00
+  8 Sakura Maki                                                          70.00
+  9 San Maki                                                            107.00
+ 10 Sashimi Maki                                                         79.00
+ 11 Scampi Maki                                                          71.00
+ 12 Spicy Tuna Maki                                                      81.00
+ 13 Tempura Maki                                                         79.00
+ 14 Ål og agurk Maki                                                     79.00
+
+Gunkan Maki 
+-------------------------------------------------------------------------------
+  1 Kamskjell Gunkan                                                     63.00
+  2 Kveitefett Gunkan                                                    47.00
+  3 Lakserogn Gunkan                                                     72.00
+  4 Tobikko Gunkan                                                       63.00
+
+Temaki 
+-------------------------------------------------------------------------------
+  1 Kongekrabbe Temaki                                                   74.00
+  2 Ål og agurk Temaki                                                   68.00
+
