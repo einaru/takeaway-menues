@@ -9,7 +9,7 @@ GNU General Public License (GPL) version 3 or later.
 Test module for core.scrapper.py
 """
 
-from core.scrapper import *
+from core.scraper import *
 
 
 if __name__ == '__main__':
