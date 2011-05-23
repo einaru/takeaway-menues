@@ -1,11 +1,10 @@
 # -*- coding: utf-8 -*-
-#
-# Copyright Einar Uvsløkk 2011 <einar.uvslokk@linux.com>
-#
-# Licensed under the GNU General Public License (GPL) version 3.
+"""
+Copyright (C) 2011 Einar Uvsløkk, <einar.uvslokk@linux.com>.
 
-"""This module contains methods for accessing menues from the various
-supported restaturants.
+Free use of this software is granted under the terms of the Do What The
+Fuck You Want To Public License, Version 2, as publised by Sam Hocevar.
+See http://sam.zoy.org/wtfpl/COPYING for more details.
 """
 
 
@@ -85,9 +84,6 @@ class MenuItem(object):
         self.name = name
         self.desc = desc
         self.price = price
-
-    def __str__(self):
-        return 'name: %s\ndesc: %s\nprice: %s' % (self.name, self.desc, self.price)
 
 
 # vim: tabstop=4 expandtab shiftwidth=4 softtabstop=4

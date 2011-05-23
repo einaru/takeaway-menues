@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
-#
-# Copyright Einar Uvsløkk 2011 <einar.uvslokk@linux.com>
-#
-# Licensed under the GNU General Public License (GPL) version 3.
+"""
+Copyright (C) 2011 Einar Uvsløkk, <einar.uvslokk@linux.com>.
 
-"""This module contains specialized `Restaurant` classes for scraping
+Free use of this software is granted under the terms of the Do What The
+Fuck You Want To Public License, Version 2, as publised by Sam Hocevar.
+See http://sam.zoy.org/wtfpl/COPYING for more details.
+
+
+This module contains specialized `Restaurant` classes for scraping
 takeout menu information from their websites.
 
 Currently `Restaurant` implementations exists for:
@@ -17,7 +20,6 @@ Not currently implemented:
 - Sushi Bar    (Trondheim) http://www.sushibar.no **pdf**
 - Phu Yen      (Trondheim) http://www.phuyen.no   **Flash, pdf**
 - Sesam Burger (Trondheim)                        **No website**
-
 """
 import re
 import sys
@@ -252,8 +254,5 @@ class BryggenAsianCooking(Restaurant):
 
         return items
 
-
-if __name__ == '__main__':
-    kyoto = Kyoto()
 
 # vim: tabstop=4 expandtab shiftwidth=4 softtabstop=4

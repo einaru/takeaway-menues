@@ -1,10 +1,13 @@
 # -*- coding: utf-8 -*-
-#
-# Copyright Einar Uvsløkk 2011 <einar.uvslokk@linux.com>
-#
-# Licensed under the GNU General Public License (GPL) version 3.
+"""
+Copyright (C) 2011 Einar Uvsløkk, <einar.uvslokk@linux.com>.
 
-"""Test module for core.scrapper.py"""
+Free use of this software is granted under the terms of the
+GNU General Public License (GPL) version 3 or later.
+
+
+Test module for core.scrapper.py
+"""
 
 from core.scrapper import *
 

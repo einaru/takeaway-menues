@@ -1,35 +1,14 @@
 # -*- coding: utf-8 -*-
-#
-# Copyright Einar Uvsløkk 2011 <einar.uvslokk@linux.com>
-#
-# Licensed under the GNU General Public License (GPL) version 3.
-
-"""Collection of utility methods.
 """
-_htmlSpecialChars = {
-    u'&quot;' : u'"',
-    u'&amp;'  : u'&',
-    u'&lt;'   : u'<',
-    u'&gt;'   : u'>',
-}
+Copyright (C) 2011 Einar Uvsløkk, <einar.uvslokk@linux.com>.
+
+Free use of this software is granted under the terms of the Do What The
+Fuck You Want To Public License, Version 2, as publised by Sam Hocevar.
+See http://sam.zoy.org/wtfpl/COPYING for more details.
 
 
-def unescapeHtmlSpecialChars(s):
-    """Returns `string` with all special html characters unescaped.
-    """
-    s.replace(u'&quot;', u'"')
-    s.replace(u'&amp;', u'&')
-    s.replace(u'&lt;', u'<')
-    s.replace(u'&gt;', u'>')
-    return s
-
-
-def escapeSpecialChars(string):
-    """Returns `string` with all special html characters escaped.
-    """
-    for escaped, unescaped in _htmlSpecialChars.iteritems():
-        string.replace(unescaped, escaped)
-    return string
+This module contains a collection of utility methods.
+"""
 
 
 def formatPrice(price):
@@ -47,5 +26,6 @@ def formatPrice(price):
     if ',' in price:
         return price.replace(',', '.')
     return price
+
 
 # vim: tabstop=4 expandtab shiftwidth=4 softtabstop=4

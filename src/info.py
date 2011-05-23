@@ -6,16 +6,12 @@ Free use of this software is granted under the terms of the Do What The
 Fuck You Want To Public License, Version 2, as publised by Sam Hocevar.
 See http://sam.zoy.org/wtfpl/COPYING for more details.
 """
-import os
-import sys
 
+__all__ = ['NAME', 'VERSION', 'DESCRIPTION']
 
-def getRealLibPath():
-    import info
-    return str(version).split()[3][1:-13]
-
-
-sys.path.append(getRealLibPath)
+NAME = 'takeout'
+VERSION = '0.1'
+DESCRIPTION = 'Python library for generating takeout menues.'
 
 
 # vim: tabstop=4 expandtab shiftwidth=4 softtabstop=4

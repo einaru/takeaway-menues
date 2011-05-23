@@ -6,3 +6,7 @@
 # python files
 *.pyc
 
+# deployment
+dist/
+build/
+

@@ -1,0 +1,8 @@
+setup.py
+src/__init__.py
+src/info.py
+src/test_scrapper.py
+src/core/__init__.py
+src/core/menu.py
+src/core/scrapper.py
+src/core/util.py
